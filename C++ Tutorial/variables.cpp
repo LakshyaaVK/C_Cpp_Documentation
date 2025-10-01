@@ -1,0 +1,1 @@
+//A variable in c++ is a named memory location used to store data .It acts as a container that holds values which can be changed during
